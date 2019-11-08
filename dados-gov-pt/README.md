@@ -8,7 +8,7 @@ The jupyter notebook *localizacao_pontos_atendimento.ipynb* is meant to collect 
 
 ### Installing
 
-For more convience, since the portal was developed from the uData engine, you will need to install the Open Data Team's udata-explorer:
+For more convenience, since the portal was developed from the uData engine, you will need to install the Open Data Team's udata-explorer:
 
 ```
 git clone https://github.com/opendatateam/udata-explorer.git
